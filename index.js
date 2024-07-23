@@ -3,7 +3,7 @@ const { Client, Intents, MessageActionRow, MessageButton, MessageEmbed, Permissi
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 const prefix = '!'; // Your bot's prefix
 
-const token = ("MTI1OTMxMDI5OTY4MTUyNTgxMQ.GcDeLI.HJg4XL3jjjmgkJQecw6iUZS1Wen8iKY9myn_ww")
+const token = ("N/A")
 
 
 
